@@ -19,7 +19,7 @@
 * 🧠 Passionate about exploring and integrating **Open Source Generative AI** solutions into practical projects.
 * 🛠️ Experienced in project deployment and infrastructure management with **Docker** and **Red Hat** environments.
 * 💡 Focused on delivering clean, maintainable code and optimizing performance for the best user experience.
-* 
+  
 ---
 ## 🚀 Tech Stack  
 
