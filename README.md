@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-<h4 align="left">
+<h4 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">
   What I'm currently focused on:
 </h4>
@@ -23,8 +23,8 @@
 ---
 ## 🚀 Tech Stack  
 
-### 🖥️ Frontend  
-<p align="left">
+<h3 align="center">🖥️ Frontend</h3>  
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-008CBA?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -34,15 +34,15 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🎨 Design & Assets
-<p align="left">
+<h3 align="center">🎨 Design & Assets</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Server  
-<p align="left">
+<h3 align="center">⚙️ Backend & Server</h3>  
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -50,15 +50,15 @@
   <img src="https://img.shields.io/badge/Apache_HTTP_Server-D22129?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
-### 🗄️ Databases  
-<p align="left">
+<h3 align="center">🗄️ Databases</h3>  
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Platforms  
-<p align="left">
+<h3 align="center">🛠️ Tools & Platforms</h3>  
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -68,19 +68,20 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-### 💡 Advanced & Enterprise  
-<p align="left">
+<h3 align="center">💡 Advanced & Enterprise</h3>  
+<p align="center">
   <img src="https://img.shields.io/badge/Generative_AI-FF4500?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/Odoo-7C9AA5?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
 
-### 🖥️ Operating Systems  
-<p align="left">
+<h3 align="center">🖥️ Operating Systems</h3>  
+<p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+---
 ---
 
 ## 📊 GitHub Analytics
