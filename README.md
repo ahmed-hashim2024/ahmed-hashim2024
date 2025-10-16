@@ -1,7 +1,10 @@
-# 🌟 Hello, I'm Ahmed Hashim – 👨‍💻 Fullstack Developer
-
+<h1 align="center">
+    Hello! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
+    <br>I'm <strong>Ahmed Hashim</strong>
+  </h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=490&lines=Fullstack+Developer+%7C+React+%26+Django+Expert;Building+Scalable+%26+Clean+Web+Solutions;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=490&pause=1000&color=007ACC&center=true&vCenter=true&width=490&lines=Fullstack+Developer+%7C+React+%26+Django;Building+Scalable+%26+Clean+Web+Solutions;" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,7 +16,7 @@
 </h4>
 
 * 💻 Specialized in building robust, end-to-end web applications using **React** for the frontend and **Django/Flask** for the backend.
-* 🧠 Passionate about exploring and integrating **Open Source AI** solutions into practical projects.
+* 🧠 Passionate about exploring and integrating **Open Source Generative AI** solutions into practical projects.
 * 🛠️ Experienced in project deployment and infrastructure management with **Docker** and **Red Hat** environments.
 * 💡 Focused on delivering clean, maintainable code and optimizing performance for the best user experience.
 
@@ -26,21 +29,26 @@
   <img src="https://skillicons.dev/icons?i=python,django,flask" alt="Backend Skills" />
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,apache" alt="Database Skills" />
   <img src="https://skillicons.dev/icons?i=docker,bash,git,githubactions,linux" alt="DevOps Skills" />
-  <img src="https://skillicons.dev/icons?i=ai,redhat" alt="AI and Enterprise Skills" />
+  <img src="https://skillicons.dev/icons?i=redhat" alt="Enterprise Skills" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI Badge" />
   <img src="https://img.shields.io/badge/Odoo-7C9AA5?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Badge" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmed-hashim2024&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-hashim2024&theme=buefy&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hashim2024&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-hashim2024&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-hashim2024&theme=tokyonight" alt="Profile Details" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed-hashim2024&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed-hashim2024&theme=tokyonight" alt="Stats" />
 </p>
 
 ---
@@ -62,9 +70,3 @@
   </a>
 </div>
 
----
-
-<p align="center">
-  This profile is meticulously coded in Markdown.
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
-</p>
